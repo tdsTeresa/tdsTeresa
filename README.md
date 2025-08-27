@@ -1,4 +1,4 @@
-Hola, soy <a href="https://tdsTeresa">Teresa</a>, estoy formándome como Analista de datos y quiero compartir algunos proyectos interesantes  📈📊
+Hola, soy Teresa, estudio Analisis de datos y quiero compartir algunos proyectos interesantes  📈📊
 
 
 ### ⚙️ &nbsp;GitHub Analytics
