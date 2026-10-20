@@ -3,7 +3,7 @@
 <br>
 <br>
 <h2>Sobre mí </h2><br>
-🔸 Lic. en Informática, actualmente formándome en el <b>Análisis de datos</b> y adquiriendo habilidades sólidas en el <b>Análisis de marketing.</b> 📈<br><br> 
+🔸 Lic. en Informática enfocada en el <b>Análisis de datos</b> y adquiriendo habilidades sólidas en el <b>Análisis de marketing.</b> 📈<br><br> 
 🔸 Soy una persona creativa y curiosa, en constante búsqueda de patrones y soluciones. 📊<br><br>
 🔸 Mi mayor motivación es transformar datos en respuestas y decisiones claras que todos puedan comprender. 😊<br><br>   
 🔸 Mi pasión es el <b>aprendizaje constante</b>. 📖 <br>
@@ -239,7 +239,7 @@
   <br> <br>
   <h2>📚 ¿En qué estoy trabajando? </h2>
  <br>
- Actualmente me encuentro aprendiendo sobre servicios en la nube como AWS.
+ Actualmente me encuentro practicando con servicios en la nube como AWS.
  <br>
  <br>
 <p align="center">
